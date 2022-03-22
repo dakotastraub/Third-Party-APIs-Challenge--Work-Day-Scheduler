@@ -12,4 +12,5 @@ Built With:
 - Moment.js
 
 
-![WorkDaySchedulerScreenShot](https://user-images.githubusercontent.com/98859025/159382542-59bf04b0-df99-4491-8bf7-fc9bcefbf94c.jpg)
+<img width="1066" alt="WorkdatyScheduler" src="https://user-images.githubusercontent.com/98859025/159382728-5cb0f16e-c099-43f1-8c4e-e7290c80d8f4.png">
+
